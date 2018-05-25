@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitLab", "GitLab\GitLab.vcxproj", "{2601A201-C2F2-47F6-9B31-8BE2369183B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitProject", "..\GitProject\GitProject\GitProject.vcxproj", "{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,11 +23,19 @@ Global
 		{2601A201-C2F2-47F6-9B31-8BE2369183B1}.Release|x64.Build.0 = Release|x64
 		{2601A201-C2F2-47F6-9B31-8BE2369183B1}.Release|x86.ActiveCfg = Release|Win32
 		{2601A201-C2F2-47F6-9B31-8BE2369183B1}.Release|x86.Build.0 = Release|Win32
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Debug|x64.ActiveCfg = Debug|x64
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Debug|x64.Build.0 = Debug|x64
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Debug|x86.Build.0 = Debug|Win32
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Release|x64.ActiveCfg = Release|x64
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Release|x64.Build.0 = Release|x64
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Release|x86.ActiveCfg = Release|Win32
+		{0AFA34E5-20B3-4892-BD96-2AB5F5B9A28F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D88C695A-A335-4C2D-96EF-83CDCB0DD5D4}
+		SolutionGuid = {FCD84B00-BCEE-4DBD-B173-F838F6BAF7B2}
 	EndGlobalSection
 EndGlobal
